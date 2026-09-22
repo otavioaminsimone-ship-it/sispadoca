@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wagner\\Desktop\\sispadoca\\",
+  "WorkspaceRootPath": "C:\\Users\\alunoetec\\sispadoca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\wagner\\desktop\\sispadoca\\sispadoca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|C:\\Users\\alunoetec\\sispadoca\\sispadoca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\wagner\\desktop\\sispadoca\\sispadoca\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\wagner\\desktop\\sispadoca\\sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\wagner\\desktop\\sispadoca\\sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\wagner\\desktop\\sispadoca\\sispadoca\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|c:\\users\\alunoetec\\sispadoca\\sispadoca\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4292CA49-FE23-5633-FDEA-18981D91731D}|SisPadoca\\SisPadoca.csproj|solutionrelative:sispadoca\\frmclientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +42,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmPrincipal.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmPrincipal.cs",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "SisPadoca\\FrmPrincipal.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmPrincipal.cs [Projeto]",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.cs",
+              "RelativeToolTip": "SisPadoca\\FrmPrincipal.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T17:25:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "SisPadoca\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmProdutos.cs",
+              "RelativeToolTip": "SisPadoca\\FrmProdutos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T17:13:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProdutos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "SisPadoca\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmProdutos.cs [Projeto]",
+              "RelativeToolTip": "SisPadoca\\FrmProdutos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T16:46:21.964Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "SisPadoca\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.cs [Projeto]",
               "RelativeToolTip": "SisPadoca\\FrmPrincipal.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T20:31:13.626Z",
@@ -46,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FrmPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "SisPadoca\\FrmPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmPrincipal.Designer.cs",
               "RelativeToolTip": "SisPadoca\\FrmPrincipal.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FrmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.cs",
               "RelativeDocumentMoniker": "SisPadoca\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.cs",
               "RelativeToolTip": "SisPadoca\\FrmClientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,11 +122,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FrmClientes.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.cs",
               "RelativeDocumentMoniker": "SisPadoca\\FrmClientes.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.cs [Projeto]",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.cs [Projeto]",
               "RelativeToolTip": "SisPadoca\\FrmClientes.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T20:28:33.624Z",
@@ -84,11 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "FrmClientes.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.Designer.cs",
               "RelativeDocumentMoniker": "SisPadoca\\FrmClientes.Designer.cs",
-              "ToolTip": "C:\\Users\\Wagner\\Desktop\\sispadoca\\SisPadoca\\FrmClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\alunoetec\\sispadoca\\SisPadoca\\FrmClientes.Designer.cs",
               "RelativeToolTip": "SisPadoca\\FrmClientes.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
